@@ -6,7 +6,7 @@ Description: This is a react component, using react-router-dom component under t
 import {PageList} from 'pagelist-react'
 
 export default function App() {
-  // const [show, _] = useWhat("showHide", true);
+	
   const list = [
     ["/posts", <PostsApp />],
     ["/post/:postId", <Post />],
