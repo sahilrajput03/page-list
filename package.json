@@ -1,0 +1,19 @@
+{
+	"name": "react-page-list",
+	"version": "0.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"scripts": {
+		"prepub": "c Pre version commit.",
+		"pub": "yarn version --patch && yarn publish",
+		"postpub": "p"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sahilrajput03/react-page-list"
+	},
+	"peerDependencies": {
+		"react": "^16.0.0 || ^17.0.0",
+		"react-router-dom": "^5.0.0"
+	}
+}
