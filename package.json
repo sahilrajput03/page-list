@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/sahilrajput03/react-page-list"
+		"url": "https://github.com/sahilrajput03/page-list"
 	},
 	"peerDependencies": {
 		"react": "^16.0.0 || ^17.0.0",
