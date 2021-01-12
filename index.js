@@ -1,5 +1,7 @@
 import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
 
+let log = console.log;
+
 export const PageList = ({list}) => {
   const Breaker = Array(20)
     .fill()
