@@ -3,6 +3,8 @@ Description: This is a react component, using react-router-dom component under t
 #### Example usage of `PageList` component.
 
 ```js
+import {PageList} from 'pagelist-react'
+
 export default function App() {
   // const [show, _] = useWhat("showHide", true);
   const list = [
@@ -24,4 +26,4 @@ export default function App() {
 }
 ```
 
-Example soon to come here.
+Codesandbox example soon to come here.
